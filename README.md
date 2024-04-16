@@ -24,4 +24,8 @@ Things you may want to cover:
 * ...
 
 ## Project Demo Video
-[!(/videos/video.mp4)]
+
+
+https://github.com/Suryam1260/todo/assets/167088653/6a2aba73-23cf-40ca-b0b2-b8e8e15ecb05
+
+
